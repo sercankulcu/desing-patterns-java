@@ -38,3 +38,4 @@ State pattern
 Strategy pattern
 Template method pattern
 Visitor pattern
+
